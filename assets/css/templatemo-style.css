@@ -767,6 +767,10 @@ section.contact-me {
     .menu .image {
         margin-top: 60px;
     }
+    .prolink {
+        color:green;
+        
+}
 }
 
 @media screen and (max-width: 1280px) {
