@@ -888,3 +888,31 @@ section.contact-me {
         color: fuchsia;
     }
 }
+.watchbtn{
+    background-color: #7a7a7a;
+    color: white;
+    border-radius: 2px solid green;
+    opacity: 0.9;
+    background-color: rgba(164, 63, 73, 0.3);
+    color: white;
+}
+.watchbtn a{
+    color: white;
+    padding: 10px;
+    display: block;
+}
+ 
+.btncollection{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5px;
+}
+.hoverbtn{
+    background-color: rgba(164, 63, 73, 1);
+}
+.hoverbtn:hover{
+    background-color: green;
+}
+.isotope-wrapper button{
+    padding: 0 0;
+}
