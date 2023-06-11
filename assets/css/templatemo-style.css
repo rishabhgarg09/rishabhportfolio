@@ -744,6 +744,24 @@ section.contact-me {
     height: 3px;
     background-color: white;
 }
+
+.forresume{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.resume{
+    outline: none;
+    border: none;
+    background-color: rgba(164, 63, 73, 1);
+    color: white;
+}
+.resume:hover{
+    color: rgba(164, 63, 73, 1);
+    background-color: white;
+}
+
+
+
 @media screen and (max-width: 1680px) {
     .menu {
         left: 5%;
