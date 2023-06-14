@@ -345,7 +345,7 @@ html {
     color: #fff;
 }
 
-button {
+ .starpro {
     display: inline-block;
     padding: 10px 20px;
     background-color: #fff;
@@ -358,13 +358,13 @@ button {
     border: none;
     outline: none;
     cursor: pointer;
-}
+} 
 
-button:hover {
+.starpro:hover {
     outline: none;
     background-color: #a43f49;
     color: #fff;
-}
+} 
 
 
 /* Left & Right Post */
@@ -743,6 +743,7 @@ section.contact-me {
     width: 58px;
     height: 3px;
     background-color: white;
+    display: block;
 }
 
 .forresume {
@@ -755,6 +756,7 @@ section.contact-me {
     border: none;
     background-color: rgba(164, 63, 73, 1);
     color: white;
+    padding: 8px;
 }
 
 .resume:hover {
